@@ -1,0 +1,15 @@
+
+1.	Create a database named db_library.
+2. 	Import the SQL into that database.
+3. 	Open the project in Eclipse.
+4. 	Select the project "tadikamesra".
+5. 	Right-click on "Referenced Libraries" in the project.
+6. 	Click on "Build Path" and then "Configure Build Path".
+7. 	Right-click on "Classpath" and then click "Add External Jars".
+8. 	Choose mysql-connector-java-8.0.27.jar.
+9. 	Click "Apply and Close".
+10.	Right-click on the project in the package explorer.
+11.	Choose "Run As" and then select "Java Application".
+12.	Select "AdminLogin" and click "OK".
+
+These steps guide you through creating a database, importing SQL into it, setting up the project in Eclipse, adding the MySQL connector library, and running the AdminLogin class. 
